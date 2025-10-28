@@ -8,8 +8,8 @@
 
 Este repositório contém a implementação e análise de três dos principais conceitos da **Teoria da Computação**:
 
-- **SFD (Sistema Formal Determinístico)**  
-- **FN (Função de Transição ou Função de Estado)**  
+- **AFD (Autmatos Finitos Determinístico)**  
+- **AFN (Autmatos Finitos não Determinísticos)**  
 - **Máquina de Turing**
 
 O objetivo é compreender, simular e visualizar o funcionamento de autômatos e máquinas computacionais formais por meio de código Python, permitindo observar como linguagens formais são processadas e reconhecidas por diferentes modelos computacionais.
@@ -39,18 +39,6 @@ O objetivo é compreender, simular e visualizar o funcionamento de autômatos e 
 | Organização de projeto | `UML`, módulos e pacotes |
 
 </div>
-
----
-
-## 🧩 Estrutura do projeto
-📂 Teoria-da-Computacao/
-├── 📁 automatos/ # Implementações de AFD, AFN e conversões
-├── 📁 turing/ # Implementação da Máquina de Turing
-├── 📁 utils/ # Funções auxiliares e manipuladores de arquivos
-├── 📁 interface/ # Aplicação Streamlit para visualização
-├── main.py # Arquivo principal do simulador
-├── README.md # Documentação principal
-└── requirements.txt # Dependências do projeto
 
 
 ---
