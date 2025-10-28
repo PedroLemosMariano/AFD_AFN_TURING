@@ -76,6 +76,8 @@ O objetivo é compreender, simular e visualizar o funcionamento de autômatos e 
 
   streamlit run main.py
 
+---
+
 ##📊 Resultados esperados
 
 Compreensão prática do funcionamento de autômatos finitos e máquinas de Turing;
@@ -85,6 +87,8 @@ Visualização clara de transições e estados;
 Ferramenta útil para ensino e demonstração em sala de aula;
 
 Base sólida para a expansão do simulador, incluindo autômatos não determinísticos e linguagens regulares.
+
+---
 
 ##👨‍💻 Autor
 
